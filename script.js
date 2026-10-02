@@ -271,7 +271,7 @@ const shop = [
     name: "Television",
     category: "Electronique",
     price: 550000,
-    quantity: 6,
+    quantity: 7,
     available: true,
   },
   {
